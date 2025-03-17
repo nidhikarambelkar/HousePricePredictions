@@ -1,5 +1,3 @@
-# -*- coding: utf-8 -*-
-#Practical 9
 #Predicting House prices:A regression example
 
 import numpy as np
